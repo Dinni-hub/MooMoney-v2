@@ -4,9 +4,11 @@ export default function App() {
       <h1>Moo Money Budget Planner</h1>
       <p>Data tersimpan aman di device kamu.</p>
 
-      {/* isi fitur budget planner kamu di sini */}
+      {/* seluruh fitur budget planner kamu tetap di bawah sini */}
     </div>
   );
 }
+
+
 
 
